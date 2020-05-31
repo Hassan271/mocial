@@ -1,0 +1,2 @@
+# mocial
+Mocila_Static
